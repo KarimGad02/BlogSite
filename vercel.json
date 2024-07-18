@@ -23,7 +23,7 @@
         },
         {
             "src": "/(.*)",
-            "dest": "projectname/wsgi.py"
+            "dest": "my_site/wsgi.py"
         }
     ]
 }
